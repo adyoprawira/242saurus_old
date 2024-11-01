@@ -1,0 +1,35 @@
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
+
+adyo:
+  name: Adyo Prawira
+  title: Myself
+  url: https://github.com/adyoprawira
+  image_url: https://pbs.twimg.com/media/GIXGMewbEAAcI5p?format=jpg&name=4096x4096
+
+andriyo:
+  name: Andriyo Averill
+  title: Himself
+  url: https://github.com/muzkii
+  image_url: https://ih1.redbubble.net/image.5434279739.1638/raf,360x360,075,t,fafafa:ca443f4786.jpg
